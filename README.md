@@ -1,9 +1,4 @@
-## Hi there 👋
-
-
-**sajonasJ/sajonasJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hello there 👋
 
 - 🔭 I’m currently working on my Personal Portfolio
 - 🌱 I’m currently learning Vue, Learning more about Mobile App Development.
